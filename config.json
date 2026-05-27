@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderuerify",
+        "uuid": 16973376,
+        "checksum": "fi2vrf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
